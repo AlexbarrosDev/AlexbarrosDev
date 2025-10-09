@@ -11,7 +11,7 @@
 
 ## 📫 Contact
 - 📧 Email: alexbarros.dev@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.comin/alex-barros-dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alex-barros-dev)
 - 🐙 [GitHub](https://github.com/alexbarrosDev)
 
 ## ✨ Frase que me inspira
