@@ -6,7 +6,7 @@
 - 🔭 Focado em Back-End com Java
 - 🚀 Em busca do meu primeiro estágio em TI
 - 🏗️ Construindo minha carreira com dedicação e disciplina
-- 🏡 SP - Brasil
+- 🏡 Buri - SP
 - 📅 Início da jornada em tecnologia: 2024
 
 ## 📫 Contact
