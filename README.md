@@ -1,16 +1,22 @@
-## Hi there 👋
+# ♦ WELCOME TO MY PROFILE
 
-<!--
-**AlexbarrosDev/AlexbarrosDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 About Me
+- 🧔 Alex Barros  
+- 🧠 Estudante de Análise e Desenvolvimento de Sistemas
+- 🔭 Focado em Back-End com Java
+- 🚀 Em busca do meu primeiro estágio em TI
+- 🏗️ Construindo minha carreira com dedicação e disciplina
+- 🏡 SP - Brasil
+- 📅 Início da jornada em tecnologia: 2024
 
-Here are some ideas to get you started:
+## 📫 Contact
+- 📧 Email: alexbarros.dev@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.comin/alex-barros-dev)
+- 🐙 [GitHub](https://github.com/alexbarrosDev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Frase que me inspira
+> “A disciplina é o que transforma sonhos em conquistas.”
+
+---
+
+⭐ *Obrigado por visitar meu perfil!*
