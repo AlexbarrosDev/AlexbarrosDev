@@ -1,7 +1,7 @@
 # ♦ WELCOME TO MY PROFILE
 
 ## 👨🏻‍💻 About Me
-- 🧔 Alex Barros  
+- 🧔 Alex Corrêa de Barros  
 - 🧠 Estudante de Análise e Desenvolvimento de Sistemas
 - 🔭 Focado em Back-End com Java
 - 🚀 Em busca do meu primeiro estágio em TI
