@@ -11,8 +11,7 @@
 
 ## 📫 Contact
 - 📧 Email: alexbarros.dev@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/alex-barros-dev)
-- 🐙 [GitHub](https://github.com/alexbarrosDev)
+- 💼 Linkedin: [LinkedIn](https://www.linkedin.com/in/alex-barros-dev)
 
 ## ✨ Frase que me inspira
 > “A disciplina é o que transforma sonhos em conquistas.”
