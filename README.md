@@ -1,36 +1,35 @@
-# Welcome
+# Perfil profissional
 
-## About Me
--  Alex Corrêa de Barros  
+## Sobre mim
+-  Alex Corrêa de Barros
+-  Localização: Buri - SP
 -  Estudante de Análise e Desenvolvimento de Sistemas
 -  Foco em Java / Backend
 -  Em busca do primeiro estágio em TI
--  Buri - SP
 -  Início da jornada em tecnologia: 2024
 
-### Linguagens e Frameworks 🎯:
+### Tecnologias 🎯:
 <p>
   <img src="https://skillicons.dev/icons?i=java,mysql,spring,maven,postman,git,github" />
 </p>
 
 
 ### Faculdade (ADS):
-#### Diciplinas diferenciais:
+#### Disciplinas diferenciais:
 - Arquitetura de redes de computadores
 - Arquitetura de computadores
 - Banco de dados
 - Sistemas de informação
-<br>
-Conhecimento básico das técnologias abaixo
+
+#### Conhecimentos complementares:
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,c,python,php,postgresql" />
 </p>
 
-## 📫 Contact
-- 📧 Email: alexbarros.dev@gmail.com  
-- 💼 Linkedin: [LinkedIn](https://www.linkedin.com/in/alex-barros-dev)
-
-### Não sou de desperdiçar oportunidades!
+## 📫 Contato
+- 📧 Email: [alexbarros.dev@gmail.com](mailto:alexbarros.dev@gmail.com)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/alex-barros-dev)
 
 ---
 
