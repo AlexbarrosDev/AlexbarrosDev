@@ -5,7 +5,6 @@
 -  Localização: Buri - SP
 -  Estudante de Análise e Desenvolvimento de Sistemas
 -  Foco em Java / Backend
--  Em busca do primeiro estágio em TI
 -  Início da jornada em tecnologia: 2024
 
 ### Tecnologias 🎯:
