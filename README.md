@@ -7,7 +7,7 @@
 -  Foco em Java / Backend
 -  Início da jornada em tecnologia: 2024
 
-### Tecnologias 🎯:
+### Tecnologias:
 <p>
   <img src="https://skillicons.dev/icons?i=java,mysql,spring,maven,postman,git,github" />
 </p>
