@@ -2,7 +2,7 @@
 
 ## Sobre mim
 -  Alex Corrêa de Barros
--  Localização: Buri - SP
+-  Localização: Itapetininga - SP
 -  Estudante de Análise e Desenvolvimento de Sistemas
 -  Foco em Java / Backend
 -  Início da jornada em tecnologia: 2024
