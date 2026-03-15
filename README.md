@@ -9,7 +9,7 @@
 
 ### Tecnologias:
 <p>
-  <img src="https://skillicons.dev/icons?i=java,mysql,spring,maven,postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,postgresql,spring,maven,postman,git,github" />
 </p>
 
 
@@ -23,7 +23,7 @@
 #### Conhecimentos complementares:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,c,python,php,postgresql" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,c,python,php" />
 </p>
 
 ## 📫 Contato
