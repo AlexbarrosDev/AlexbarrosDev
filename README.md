@@ -4,23 +4,15 @@
 -  Alex Corrêa de Barros
 -  Localização: Itapetininga - SP
 -  Estudante de Análise e Desenvolvimento de Sistemas
--  Foco em Java / Backend
+-  Foco em desenvolvimento Back-end
 -  Início da jornada em tecnologia: 2024
 
 ### Tecnologias:
 <p>
-  <img src="https://skillicons.dev/icons?i=java,mysql,postgresql,spring,maven,postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,postgresql,spring,maven,postman,git" />
 </p>
 
-
-### Faculdade (ADS):
-#### Disciplinas diferenciais:
-- Arquitetura de redes de computadores
-- Arquitetura de computadores
-- Banco de dados
-- Sistemas de informação
-
-#### Conhecimentos complementares:
+#### Conhecimentos básicos complementares:
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,c,python,php" />
