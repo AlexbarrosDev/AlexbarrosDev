@@ -3,7 +3,7 @@
 ## Sobre mim
 -  Alex Corrêa de Barros
 -  Localização: Itapetininga - SP
--  Estudante de Análise e Desenvolvimento de Sistemas
+-  Estudante de Análise e Desenvolvimento de Sistemas - (4/5)
 -  Foco em desenvolvimento Back-end
 -  Início da jornada em tecnologia: 2024
 
